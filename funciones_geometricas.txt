@@ -3,3 +3,9 @@ def area_cuadrado(lado)
   area = lado*lado
   return area
 # creado por Ernesto  
+
+# funcion area rectangulo by Ernesto Soto
+def area_rectangulo(a,b)
+    area = a*b
+    return area
+# fin area rectangulo
