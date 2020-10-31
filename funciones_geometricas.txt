@@ -9,3 +9,9 @@ def area_rectangulo(a,b)
     area = a*b
     return area
 # fin area rectangulo
+
+#funcion area triangulo by Ernesto Soto
+def area_triangulo(b,h)
+    area = b*h*0.5
+    return area
+#fin area triangulo
