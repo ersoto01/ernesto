@@ -1,1 +1,2 @@
 archivo creados desde github
+linea ingresada x alumno_A
