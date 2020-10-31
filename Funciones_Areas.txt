@@ -1,0 +1,7 @@
+# area cuadrado by Ernesto Soto
+def Area_cuadrado(lado)
+    area = lado*lado
+    return area
+# fin funcion area cuadrado
+
+
